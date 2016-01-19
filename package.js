@@ -19,7 +19,9 @@ Package.onUse(function(api) {
   api.addFiles([
     'lukemadera_autoform-pikaday.html',
     'lukemadera_autoform-pikaday.css',
-    'lukemadera_autoform-pikaday.js'
+    'lukemadera_autoform-pikaday.js',
+    'pikaday.js',
+    'pikaday.css'
   ], 'client');
 });
 
